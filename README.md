@@ -4,7 +4,7 @@
 
 This project focuses on analyzing mobile sales data to understand brand performance, revenue trends, and customer behavior. The analysis helps businesses make data-driven decisions in a competitive smartphone market.
 
-🔑 Features Included:
+**🔑 Features Included:**
 
 - Customer Details: Customer_ID, Country
 
@@ -14,7 +14,7 @@ This project focuses on analyzing mobile sales data to understand brand performa
 
 - Payment Info: Payment_Method
 
-⚙️ Tools & Technologies
+**⚙️ Tools & Technologies**
 
 - Python 🐍
 
