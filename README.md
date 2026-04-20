@@ -4,22 +4,15 @@
 
 This project focuses on analyzing mobile sales data to understand brand performance, revenue trends, and customer behavior. The analysis helps businesses make data-driven decisions in a competitive smartphone market.
 
-**📁 Dataset Information**
-
-Source: Kaggle
-Format: CSV
-Rows: 500
-Columns: 13
-
 🔑 Features Included:
 
-Customer Details: Customer_ID, Country
+- Customer Details: Customer_ID, Country
 
-Product Details: Brand, Model, Storage, Color, Price_USD
+- Product Details: Brand, Model, Storage, Color, Price_USD
 
-Sales Details: Revenue_USD, Sale_Month, Sale_Year
+- Sales Details: Revenue_USD, Sale_Month, Sale_Year
 
-Payment Info: Payment_Method
+- Payment Info: Payment_Method
 
 ⚙️ Tools & Technologies
 
